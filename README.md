@@ -1,4 +1,4 @@
-### Hello there ! i'm glad to see you😄 !
+### Hello there ! i'm glad to see you ! 😄
 <!--
 **somewheregreeny/somewheregreeny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
