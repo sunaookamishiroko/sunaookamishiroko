@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 <p align="center">
   <img width="300" height="300" src="./golang.png">
 </p>
+<p align="center">The Go Gopher</p>
