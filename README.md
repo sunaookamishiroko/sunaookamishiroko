@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 <p align="center">
   <img width="300" height="300" src="./golang.png">
 </p>
-<p align="center">
-  <div>I interested in blockchain, backend </div>
-</p>
+<p align="center">I interested in blockchain, backend</p>
