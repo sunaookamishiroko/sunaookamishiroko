@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="./golang.png" width="450px" height="450px" />
+<p align="center">
+  <img width="300" height="300" src="./golang.png">
+</p>
