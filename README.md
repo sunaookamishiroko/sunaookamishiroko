@@ -13,11 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <p align="center">Hi there!</p>
-<p align="center">I'm interested in blockchain, backend</p>
 -->
 <p align="center">
   <img width="300" height="300" src="./golang.png">
 </p>
-<p align="center">The Go Gopher</p>
-<p align="center">I'm intereted in backend and blockchain develop !</p>
 
